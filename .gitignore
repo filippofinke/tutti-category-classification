@@ -1,0 +1,6 @@
+.venv
+dataset.csv
+word2vec.wordvectors
+word2vec.wordvectors.vectors.npy
+test_trainer
+dbmdz
