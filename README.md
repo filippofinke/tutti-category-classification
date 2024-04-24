@@ -44,7 +44,7 @@ weighted avg       0.94      0.94      0.94      8508
 weighted avg       0.94      0.94      0.94      8508
 ```
 
-### MultinomialNB and CountVectorizer
+### MultinomialNB and CountVectorizer
 
 ```
 precision    recall  f1-score   support
